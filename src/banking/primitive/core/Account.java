@@ -1,3 +1,4 @@
+//This is a java comment. It is made of java and comment.
 package banking.primitive.core;
 
 public abstract class Account implements java.io.Serializable {
