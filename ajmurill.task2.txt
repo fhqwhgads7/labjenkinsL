@@ -1,0 +1,201 @@
+TEAM L:
+Jordan Guymon        (jaguymon)
+Andrew Murillo        (ajmurill)
+Alejandro Arroyo    (aarroyo3)
+
+ Volume in drive C is OS
+ Volume Serial Number is D0C3-5CB6
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master
+
+02/05/2014  15:36    <DIR>          .
+02/05/2014  15:36    <DIR>          ..
+02/05/2014  13:26                45 .gitignore
+02/05/2014  15:36                 0 ajmurill.task2.txt
+02/05/2014  15:35    <DIR>          build
+02/05/2014  15:32             1,044 build.xml
+02/05/2014  15:32    <DIR>          jars
+02/05/2014  13:26                69 my.properties
+02/05/2014  13:26                57 README.md
+02/05/2014  13:26    <DIR>          src
+               5 File(s)          1,215 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35    <DIR>          classes
+02/05/2014  15:35    <DIR>          doc
+02/05/2014  15:35                69 my.properties
+               1 File(s)             69 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\classes
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\classes\banking
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35    <DIR>          gui
+02/05/2014  15:35    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\classes\banking\gui
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35               587 Main.class
+02/05/2014  15:35             1,171 MainFrame$DepositHandler.class
+02/05/2014  15:35             1,453 MainFrame$DisplayHandler.class
+02/05/2014  15:35               361 MainFrame$FrameHandler.class
+02/05/2014  15:35             1,263 MainFrame$NewAccountHandler.class
+02/05/2014  15:35               811 MainFrame$SaveAccountsHandler.class
+02/05/2014  15:35             1,180 MainFrame$WithdrawHandler.class
+02/05/2014  15:35             3,155 MainFrame.class
+               8 File(s)          9,981 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\classes\banking\primitive
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\classes\banking\primitive\core
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35               962 Account$State.class
+02/05/2014  15:35             1,296 Account.class
+02/05/2014  15:35               559 AccountServer.class
+02/05/2014  15:35               546 AccountServerFactory.class
+02/05/2014  15:35             1,452 Checking.class
+02/05/2014  15:35             1,378 Savings.class
+02/05/2014  15:35             4,110 ServerSolution.class
+               7 File(s)         10,303 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\doc
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35             1,187 allclasses-frame.html
+02/05/2014  15:35             1,087 allclasses-noframe.html
+02/05/2014  15:35    <DIR>          banking
+02/05/2014  15:35             3,437 constant-values.html
+02/05/2014  15:35             3,387 deprecated-list.html
+02/05/2014  15:35             8,177 help-doc.html
+02/05/2014  15:35            14,197 index-all.html
+02/05/2014  15:35             2,746 index.html
+02/05/2014  15:35               834 overview-frame.html
+02/05/2014  15:35             3,961 overview-summary.html
+02/05/2014  15:35             4,762 overview-tree.html
+02/05/2014  15:35                37 package-list
+02/05/2014  15:35    <DIR>          resources
+02/05/2014  15:35             5,718 serialized-form.html
+02/05/2014  15:35            11,613 stylesheet.css
+              13 File(s)         61,143 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\doc\banking
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35    <DIR>          gui
+02/05/2014  15:35    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\doc\banking\gui
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35               524 package-frame.html
+02/05/2014  15:35             3,676 package-summary.html
+02/05/2014  15:35             3,801 package-tree.html
+               3 File(s)          8,001 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\doc\banking\primitive
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\doc\banking\primitive\core
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35            10,720 Account.html
+02/05/2014  15:35            11,682 AccountServer.html
+02/05/2014  15:35             8,019 AccountServerFactory.html
+02/05/2014  15:35            13,393 Checking.html
+02/05/2014  15:35             1,312 package-frame.html
+02/05/2014  15:35             5,651 package-summary.html
+02/05/2014  15:35             5,115 package-tree.html
+02/05/2014  15:35            12,807 Savings.html
+               8 File(s)         68,699 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\build\doc\resources
+
+02/05/2014  15:35    <DIR>          .
+02/05/2014  15:35    <DIR>          ..
+02/05/2014  15:35             2,313 background.gif
+02/05/2014  15:35               291 tab.gif
+02/05/2014  15:35            10,701 titlebar.gif
+02/05/2014  15:35               849 titlebar_end.gif
+               4 File(s)         14,154 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\jars
+
+02/05/2014  15:32    <DIR>          .
+02/05/2014  15:32    <DIR>          ..
+02/05/2014  15:35            14,040 distribution.jar
+               1 File(s)         14,040 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\src
+
+02/05/2014  13:26    <DIR>          .
+02/05/2014  13:26    <DIR>          ..
+02/05/2014  13:26    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\src\banking
+
+02/05/2014  13:26    <DIR>          .
+02/05/2014  13:26    <DIR>          ..
+02/05/2014  13:26    <DIR>          gui
+02/05/2014  13:26    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\src\banking\gui
+
+02/05/2014  13:26    <DIR>          .
+02/05/2014  13:26    <DIR>          ..
+02/05/2014  13:26               721 Main.java
+02/05/2014  13:26             5,891 MainFrame.java
+               2 File(s)          6,612 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\src\banking\primitive
+
+02/05/2014  13:26    <DIR>          .
+02/05/2014  13:26    <DIR>          ..
+02/05/2014  14:56    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Japphira\Desktop\labcibuild-master\src\banking\primitive\core
+
+02/05/2014  14:56    <DIR>          .
+02/05/2014  14:56    <DIR>          ..
+02/05/2014  13:26             1,935 Account.java
+02/05/2014  13:26             1,483 AccountServer.java
+02/05/2014  13:26               407 AccountServerFactory.java
+02/05/2014  13:26             1,523 Checking.java
+02/05/2014  13:26             1,264 Savings.java
+02/05/2014  13:26             3,164 ServerSolution.java
+               6 File(s)          9,776 bytes
+
+     Total Files Listed:
+              58 File(s)        203,993 bytes
+              56 Dir(s)  38,469,083,136 bytes free
