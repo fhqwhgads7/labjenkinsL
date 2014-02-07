@@ -2,13 +2,13 @@ package banking.primitive.core;
 
 public class Savings extends Account {
 	private static final long serialVersionUID = 111L;
-	private int numWithdraws = 0;
+	private int numWithdraws = 0; //if you'll look to our left, you'll a fine specimen of num along with a few draws. Num with draws.
 
 	public Savings(String name) {
 		super(name);
 	}
 
-	public Savings(String name, float balance) throws IllegalArgumentException {
+	public Savings(String name, float balance) throws IllegalArgumentException { //if you don't catch this exception, you are immediately a fugitive from justice.
 		super(name, balance);
 	}
 
@@ -37,7 +37,7 @@ public class Savings extends Account {
 				balance = balance - 1.0f;
 			// KG BVA: should be < 0
 			if (balance <= 0.0f) {
-				setState(State.OVERDRAWN);
+				setState(State.OVERDRAWN); //you don't need TWO BOXES of crayons to draw a picture of a house. You're overdrawing it.
 			}
 			return true;
 		}
@@ -47,6 +47,6 @@ public class Savings extends Account {
 	public String getType() { return "Checking"; }
 
 	public String toString() {
-		return "Savings: " + getName() + ": " + getBalance();
+		return "Savings: " + getName() + ": " + getBalance(); //balance get!
 	}
 }
